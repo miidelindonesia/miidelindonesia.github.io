@@ -316,7 +316,7 @@ a, a:before, a:after, input { -moz-transition-property: background-color, color;
 
 .c-meta-box__item--comment::before { content: "\e916"; }
 
-.c-menu-button { color: #fff; display: none; position: absolute; top: 0; right: 0; text-align: center; }
+.c-menu-button { color: rgb(0, 0, 0); display: none; position: absolute; top: 0; right: 0; text-align: center; }
 .c-menu-button::before { content: "\f0c9"; font-family: "design_plus"; font-size: 18px; }
 
 .c-nav01 { border-collapse: collapse; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; }
